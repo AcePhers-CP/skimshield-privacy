@@ -4,6 +4,7 @@
 **Extension Name:** SkimShield
 **Developer:** AcePhers
 **Contact:** songheon0421@gmail.com
+**This Policy (Public URL):** https://acephers-cp.github.io/skimshield-privacy/PRIVACY_POLICY
 
 ---
 
