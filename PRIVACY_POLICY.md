@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-04-15
 **Extension Name:** SkimShield
-**Developer:** AcePhers
+**Developer:** AcePhers, BlueDongas
 **Contact:** songheon0421@gmail.com
 **This Policy (Public URL):** https://acephers-cp.github.io/skimshield-privacy/PRIVACY_POLICY
 
